@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context="com.example.erica.myapplication.accelerometer_activity">
 
+    <TextView
+        android:id="@+id/my_text_view"
+        android:layout_width="184dp"
+        android:layout_height="168dp"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="127dp"
+        tools:layout_editor_absoluteY="215dp" />
 </android.support.constraint.ConstraintLayout>
